@@ -8,9 +8,14 @@ body {
   align-items: center;
 }
 
+#title {
+  text-transform: capitalize;
+}
+
 #poem {
   display: inline-block;
   background-color: #f3f3f3;
   min-height: 400px;
-  min-width: 400px;
+  width: 400px;
+  padding: 30px 22px;
 }
